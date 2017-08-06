@@ -200,10 +200,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-<<<<<<< HEAD
-=======
   bcrypt (= 3.1.11)
->>>>>>> modeling-users
   bootstrap-sass (= 3.3.7)
   byebug (= 9.0.0)
   coffee-rails (= 4.2.1)
